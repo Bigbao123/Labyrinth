@@ -9,8 +9,10 @@
 
 具体实现效果图如下:
 由Prim实现:
+
 ![Image text](https://github.com/Bigbao123/Labyrinth/blob/master/prim.png)
 
 由DFS实现:
+
 ![Image text](https://github.com/Bigbao123/Labyrinth/blob/master/DFS.png)
 
