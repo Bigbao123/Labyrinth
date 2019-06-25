@@ -1,5 +1,5 @@
 # Labyrinth
-随机生成迷宫的算法,用两种方式:Prime,DFS实现
+非常简单的随机生成迷宫的算法,用两种方式:Prime,DFS实现
 
 快要大四了,要赶紧复习下数据结构好找工作,哈哈哈哈哈,所以最近在看图相关的算法,光看书没什么感觉,准备实践一下,写个迷宫算法
 
@@ -15,4 +15,7 @@
 由DFS实现:
 
 ![Image text](https://github.com/Bigbao123/Labyrinth/blob/master/DFS.png)
+
+
+如果喜欢可以给我一个小星星呀!
 
