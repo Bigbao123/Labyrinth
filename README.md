@@ -16,6 +16,6 @@
 
 ![Image text](https://github.com/Bigbao123/Labyrinth/blob/master/DFS.png)
 
-
+贴上博客链接有思路说明,如果写的不好有什么建议也可以给我留言哟:https://blog.csdn.net/qq_38064109/article/details/93554529
 如果喜欢可以给我一个小星星呀!
 
